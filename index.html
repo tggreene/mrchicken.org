@@ -38,8 +38,18 @@
   </head>
   <body>
     <figure>
-      <img src="./mr-chicken.svg" alt="An illustrated, very handsome chicken" />
+      <img id="mr-chicken" src="./mr-chicken.svg" alt="An illustrated, very handsome chicken" />
       <figcaption>Mr. Chicken greets you.</figcaption>
     </figure>
+    <script>
+      const chickens = [
+        { src: "./mr-chicken.svg", alt: "An illustrated, very handsome chicken" },
+        { src: "./mr-chicken-2.svg", alt: "Another illustrated, very handsome chicken" },
+      ];
+      const chosen = chickens[Math.floor(Math.random() * chickens.length)];
+      const img = document.getElementById("mr-chicken");
+      img.src = chosen.src;
+      img.alt = chosen.alt;
+    </script>
   </body>
 </html>

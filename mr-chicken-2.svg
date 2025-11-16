@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Another friendly chicken</title>
+  <desc id="desc">Cartoon chicken with different colors and pose.</desc>
+  <rect width="200" height="200" fill="#e3f2fd" />
+  <circle cx="120" cy="90" r="38" fill="#fff" stroke="#1976d2" stroke-width="4" />
+  <ellipse cx="90" cy="140" rx="55" ry="32" fill="#fff" stroke="#1976d2" stroke-width="4" />
+  <circle cx="138" cy="85" r="6" fill="#0d47a1" />
+  <polygon points="158,88 180,96 158,104" fill="#ff8f00" />
+  <path d="M115 63 Q105 38 132 42" fill="#d32f2f" stroke="#b71c1c" stroke-width="3" />
+  <path d="M82 120 q-20 -18 0 -30" fill="#bbdefb" stroke="#1976d2" stroke-width="3" />
+  <circle cx="70" cy="125" r="14" fill="#ffeb3b" stroke="#fbc02d" stroke-width="3" />
+  <line x1="95" y1="155" x2="95" y2="180" stroke="#4e342e" stroke-width="6" stroke-linecap="round" />
+  <line x1="110" y1="155" x2="110" y2="180" stroke="#4e342e" stroke-width="6" stroke-linecap="round" />
+  <path d="M135 55 q25 -15 35 10" fill="#ff7043" stroke="#d84315" stroke-width="3" />
+  <ellipse cx="60" cy="115" rx="10" ry="6" fill="#fff9c4" stroke="#fdd835" stroke-width="2" />
+</svg>
