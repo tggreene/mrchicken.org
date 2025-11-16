@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Cartoon chicken illustration</title>
+  <desc id="desc">A simple, friendly chicken drawn with vector shapes.</desc>
+  <defs>
+    <linearGradient id="sun" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe082" />
+      <stop offset="100%" stop-color="#ffcc80" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#sun)" />
+  <ellipse cx="100" cy="150" rx="70" ry="18" fill="#d7ccc8" opacity="0.5" />
+  <ellipse cx="90" cy="120" rx="50" ry="40" fill="#fff9c4" stroke="#fdd835" stroke-width="4" />
+  <circle cx="135" cy="90" r="35" fill="#fffde7" stroke="#fdd835" stroke-width="4" />
+  <circle cx="150" cy="90" r="6" fill="#5d4037" />
+  <polygon points="168,90 188,98 168,106" fill="#ef6c00" />
+  <path d="M120 65 Q110 35 140 40" fill="#e53935" stroke="#b71c1c" stroke-width="3" stroke-linecap="round" />
+  <circle cx="70" cy="110" r="16" fill="#fff176" stroke="#fbc02d" stroke-width="3" />
+  <path d="M65 110 Q55 95 70 95" fill="#fff59d" stroke="#fbc02d" stroke-width="2" />
+  <line x1="80" y1="140" x2="80" y2="165" stroke="#6d4c41" stroke-width="6" stroke-linecap="round" />
+  <line x1="100" y1="140" x2="100" y2="165" stroke="#6d4c41" stroke-width="6" stroke-linecap="round" />
+  <path d="M100 60 Q85 20 120 25" fill="#ef6c00" stroke="#b71c1c" stroke-width="3" />
+</svg>
