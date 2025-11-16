@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Field chicken</title>
+  <desc id="desc">Chicken standing in a stylized green field.</desc>
+  <rect width="200" height="200" fill="#c8e6c9" />
+  <ellipse cx="95" cy="140" rx="60" ry="38" fill="#a5d6a7" stroke="#66bb6a" stroke-width="4" />
+  <circle cx="130" cy="90" r="40" fill="#f1f8e9" stroke="#66bb6a" stroke-width="4" />
+  <circle cx="148" cy="88" r="6" fill="#1b5e20" />
+  <polygon points="168,90 190,98 168,106" fill="#ffb300" />
+  <path d="M110 70 Q92 30 130 40" fill="#ff7043" stroke="#e64a19" stroke-width="3" />
+  <circle cx="72" cy="130" r="16" fill="#c5e1a5" stroke="#8bc34a" stroke-width="3" />
+  <ellipse cx="82" cy="120" rx="14" ry="8" fill="#dcedc8" stroke="#9ccc65" stroke-width="2" />
+  <line x1="100" y1="165" x2="100" y2="190" stroke="#4e342e" stroke-width="6" stroke-linecap="round" />
+  <line x1="118" y1="165" x2="118" y2="190" stroke="#4e342e" stroke-width="6" stroke-linecap="round" />
+  <path d="M140 58 q30 -20 38 10" fill="#f4511e" stroke="#d84315" stroke-width="3" />
+  <ellipse cx="60" cy="110" rx="12" ry="7" fill="#fff9c4" stroke="#fdd835" stroke-width="2" />
+</svg>

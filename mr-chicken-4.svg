@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Pastel chicken</title>
+  <desc id="desc">Soft pastel chicken with gentle background.</desc>
+  <rect width="200" height="200" fill="#f3e5f5" />
+  <ellipse cx="92" cy="140" rx="58" ry="36" fill="#ede7f6" stroke="#9575cd" stroke-width="4" />
+  <circle cx="128" cy="90" r="38" fill="#fff" stroke="#7e57c2" stroke-width="4" />
+  <circle cx="145" cy="88" r="6" fill="#4a148c" />
+  <polygon points="165,90 187,96 165,102" fill="#d500f9" />
+  <path d="M112 64 Q95 25 128 35" fill="#ab47bc" stroke="#8e24aa" stroke-width="3" />
+  <circle cx="70" cy="128" r="15" fill="#ce93d8" stroke="#ba68c8" stroke-width="3" />
+  <ellipse cx="80" cy="118" rx="12" ry="8" fill="#f3e5f5" stroke="#ba68c8" stroke-width="2" />
+  <line x1="100" y1="162" x2="100" y2="188" stroke="#4e342e" stroke-width="6" stroke-linecap="round" />
+  <line x1="115" y1="162" x2="115" y2="188" stroke="#4e342e" stroke-width="6" stroke-linecap="round" />
+  <path d="M140 60 q25 -18 38 8" fill="#f06292" stroke="#e91e63" stroke-width="3" />
+  <ellipse cx="70" cy="120" rx="10" ry="6" fill="#fff" opacity="0.6" />
+</svg>
